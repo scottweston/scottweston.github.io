@@ -1,4 +1,4 @@
 body { font-family: 'Roboto', sans-serif; font-weight: 100; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Roboto', sans-serif; font-weight: 900; }
 footer { text-align: right; }
-.jumbotron { background-image: url(/images/clouds.jpg); background-size: 100%; background-repeat: no-repeat; }
+.jumbotron { background-image: url(/images/clouds.jpg); background-size: 70%; background-repeat: no-repeat; }
